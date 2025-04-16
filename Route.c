@@ -67,6 +67,5 @@ int main() {
         decryptRoute(message, key);
     else
         printf("Invalid option.\n");
-
     return 0;
 }
